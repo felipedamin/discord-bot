@@ -14,5 +14,6 @@ class Campeonato {
     return this.participantes;
   }
 }
+//comentários
 
 module.exports = Campeonato;
